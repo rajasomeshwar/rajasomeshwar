@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajasomeshwar
-- 👀 I’m interested in ... solving problems,learning new things
+- 👀 I’m interested in ... solving problems,learning new things,learning DSA
 - 🌱 I’m currently learning ...JAVA language,Full stack
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... message on instagram i'd @rajasomeshwar_

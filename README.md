@@ -43,7 +43,7 @@
 - **LinkedIn:** [Rajasomeshwar](https://www.linkedin.com/in/rajasomeshwar/)  
 - **GitHub:** [rajasomeshwar](https://github.com/rajasomeshwar)  
 - **LeetCode:** [rajasomeshwar_](https://leetcode.com/rajasomeshwar_/)  
-- **Email:** rajasomeshwar.contact@gmail.com  
+- **Email:** rajasomeshwarbitla@gmail.com  
 
 ---
 

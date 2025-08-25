@@ -1,50 +1,50 @@
-
 # Hi 👋, I'm Rajasomeshwar!  
-👨‍💻 **BTech Student | Software Developer | Competitive Programmer**  
+👨‍💻 **Final-Year B.Tech Student | Aspiring Software Engineer | Competitive Programmer**
 
-🚀 Passionate **Software Developer** with expertise in **Java, Spring Boot, React.js, and MySQL**. Skilled in **Data Structures & Algorithms** and actively participating in **competitive programming** on platforms like **Codeforces, LeetCode, and CodeChef**.  
+🚀 Passionate about building **secure, scalable, and efficient systems** with expertise in **Java, Spring Boot, React.js, and MySQL**. Skilled in **Data Structures & Algorithms**, actively participating in **competitive programming** on **Codeforces, LeetCode, and CodeChef**.
 
 ---
+
 ## 🌱 About Me  
-- 🌍 Based in **Hyderabad**  
-- ✉️ Reach me at **rajasomeshwar.contact@gmail.com**  
-- 🚀 Currently working on **Smart ATM Management System**  
-- 🧠 Learning **System Design & Distributed Systems**  
+- 🌍 Based in **Hyderabad, India**  
+- ✉️ Reach me at **rajasomeshwarbitla@gmail.com**  
+- 🧠 Currently learning **System Design & Distributed Systems**, focusing on solving real-world problems  
 - 🤝 Open to collaborating on **Backend & Full-Stack Projects**  
-- ⚡ **"Consistency and practice lead to mastery."**  
+- ⚡ Motto: **"Consistency and practice lead to mastery."**
 
 ---
+
 ## 💡 Skills & Technologies  
-- **Programming Languages:** Java, C, Python  
-- **Backend:** Spring Boot, RESTful APIs, JWT Authentication  
+- **Languages:** Java, C, Python  
+- **Backend:** Spring Boot, REST APIs, JWT Authentication  
 - **Frontend:** React.js, Chakra UI, Bootstrap  
-- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Version Control:** Git, GitHub  
-- **Other:** OpenCV (Face Recognition), Data Structures & Algorithms  
+- **Others:** OpenCV (Face Recognition), Data Structures & Algorithms  
 
 ---
+
 ## 🏆 Competitive Programming Profiles  
-- **LeetCode** - [rajasomeshwar_](https://leetcode.com/rajasomeshwar_/)
-  _(Max Rating: 1895, Knight | Top 4.76% Global)_  
-- **Codeforces** - [rajasomeshwar_bitla](https://codeforces.com/profile/rajasomeshwar_bitla)
-  _(Pupil | Max Rating: 1293)_  
-- **CodeChef** - [au_21eg112c04](https://www.codechef.com/users/au_21eg112c04)
-  _(3-Star | Max Rating: 1709)_  
-- **HackerRank** - [rajasomeshwar_](https://www.hackerrank.com/profile/rajasomeshwar_)
-  _(5-Stars in Problem Solving, 8113 Points)_  
+- **LeetCode:** [rajasomeshwar_](https://leetcode.com/rajasomeshwar_/) _(Max Rating: 1895 | Knight | Top 4.76% Global)_  
+- **Codeforces:** [rajasomeshwar_bitla](https://codeforces.com/profile/rajasomeshwar_bitla) _(Pupil | Max Rating: 1293)_  
+- **CodeChef:** [au_21eg112c04](https://www.codechef.com/users/au_21eg112c04) _(3★ | Max Rating: 1709)_  
+- **HackerRank:** [rajasomeshwar_](https://www.hackerrank.com/profile/rajasomeshwar_) _(5★ Problem Solving | 8113 Points)_  
 
 ---
+
 ## 📌 Featured Projects  
-- 🔹 **[Smart ATM Management System](https://github.com/rajasomeshwar/Smart-ATM-Management-System)** - Java-based ATM simulation with secure banking operations.  
-- 🔹 **[Automatic Attendance System](https://github.com/rajasomeshwar/Automatic-Attendence-System)** - Facial recognition-based attendance management using OpenCV, React, and Spring Boot.  
-- 🔹 **[Railway Management System API](https://github.com/rajasomeshwar/RailWayApplication)** - A ticket booking system with concurrency handling & JWT security.  
+- 🔹 **[Faculty Performance Appraisal System](https://github.com/rajasomeshwar/facultyAnalaysis)** – Java, Spring Boot & React app to streamline appraisal for 100+ faculty; secure JWT logins & automated scoring reduced manual effort by 70%.  
+- 🔹 **[Automatic Attendance System](https://github.com/rajasomeshwar/Automatic-Attendence-System)** – Face recognition-based attendance app using OpenCV, React & Spring Boot.  
+- 🔹 **[Railway Management System API](https://github.com/rajasomeshwar/RailWayApplication)** – Scalable ticket booking API with concurrency handling & JWT security.  
 
 ---
-## 📫 Let's Connect!  
-- **LinkedIn**: [Rajasomeshwar](https://www.linkedin.com/in/rajasomeshwar/)  
-- **GitHub**: [rajasomeshwar](https://github.com/rajasomeshwar)  
-- **LeetCode**: [rajasomeshwar_](https://leetcode.com/rajasomeshwar_/)  
-- **Email**: rajasomeshwar.contact@gmail.com  
+
+## 📫 Let's Connect  
+- **LinkedIn:** [Rajasomeshwar](https://www.linkedin.com/in/rajasomeshwar/)  
+- **GitHub:** [rajasomeshwar](https://github.com/rajasomeshwar)  
+- **LeetCode:** [rajasomeshwar_](https://leetcode.com/rajasomeshwar_/)  
+- **Email:** rajasomeshwar.contact@gmail.com  
 
 ---
-🌟 **"Consistency beats talent when talent doesn't work hard."** 🚀  
+
+🌟 _“Consistency beats talent when talent doesn’t work hard.”_ 🚀
